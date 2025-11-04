@@ -2,7 +2,11 @@
   "hosting": {
     "public": "public",
     "site": "blog-thepaynetrain-com",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
     "cleanUrls": true,
     "headers": [
       {

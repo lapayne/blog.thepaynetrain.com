@@ -9,11 +9,17 @@ tags:
   - Philosophy
 ---
 
+![](/images/wurzels-devops.png)
+
+---
+
 As anyone who knows me can tell you, I am a very proud **West Country resident**. Yorkshire may be god's own country, but the West Country is the heart; it's old, wild, and where nature and legend meet to form a magical, mystical region. Where else can you find a giant horse carved into the hillside, an ancient druid monument, and Camelot? Nothing is more West Country than **The Wurzels** (except maybe scrumpy). While listening to some of their songs recently, I thought to myself: _Is there any way I can combine my love of The Wurzels with my love of technology?_ And so, this article was born.
 
 In the world of technology and DevOps, with the need and desire to constantly go faster, it's easy to forget the simple, foundational principles that make systems work efficiently. Oddly enough, I found my most important lessons in these principles not in conferences or the latest shiny tool, but listening to the great and legendary band **The Wurzels**.
 
 For those who are unfamiliar (and I don't know why you would be), The Wurzels, best known for their song, "**The Combine Harvester**," sing about the joys, trials, and tribulations of rural life, often with a good dose of humour. Their music, on the surface, seems worlds away from continuous delivery, idempotent configuration, and immutable infrastructure. Yet, their most popular songs reveal **four core DevOps truths**.
+
+<!--more -->
 
 ---
 
@@ -56,3 +62,7 @@ The famous Wurzels anthem "**Drink Up Thy Zider**" isn’t about excess alcohol;
 - **Local knowledge and ownership:** The song is an ode to Somerset. In DevOps, this translates to **local team ownership**. The team that builds the service owns the operational running of the service ("You build it, you run it"). This deep local knowledge fosters better design and faster resolution.
 
 The next time you’re fighting with a deployment pipeline or troubleshooting a tricky production issue, remember the simple, rustic wisdom of The Wurzels: **Re-use proven tools, embrace transparency, listen to immediate feedback, and adopt a sustainable, pragmatic work rhythm**. Above all, make sure you slow down and don't burn yourself out and take time to enjoy yourself.
+
+```
+
+```

@@ -143,7 +143,6 @@ article:
   update_time: true
   # Article licensing block
 
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
   type: insight
   # Whether to include pages in the search results
@@ -209,7 +208,7 @@ widgets:
     # Names and URLs of the sites
     links:
       Resume: https://www.thepaynetrain.com
-      Bulma: https://bulma.io
+      LinkedIn: https://www.linkedin.com/in/leepayne82
   # Categories widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
     position: left

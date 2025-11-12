@@ -3,11 +3,11 @@ version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: cyberpunk
 # Path or URL to the website's logo
-logo:
+logo: /images/logo.jpg
 # Page metadata configurations
 head:
   # URL or path to the website's icon
-  favicon: /img/favicon.svg
+  favicon: /images/favicon.ico
   # Web application manifests configuration
   # https://developer.mozilla.org/en-US/docs/Web/Manifest
   manifest:
@@ -28,7 +28,7 @@ head:
     # Image files that can serve as application icons for different contexts
     icons:
       - # The path to the image file
-        src: ""
+        src: "images/icon-192x192.png"
         # A string containing space-separated image dimensions
         sizes: ""
         # A hint as to the media type of the image

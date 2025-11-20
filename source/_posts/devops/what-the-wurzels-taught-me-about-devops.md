@@ -9,7 +9,7 @@ tags:
   - Philosophy
 ---
 
-![](/images/wurzels-devops.png)
+![](/images/devops/wurzels-devops.png)
 
 ---
 

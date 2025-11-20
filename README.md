@@ -31,7 +31,7 @@ A blog platform project located at `blog.thepaynetrain.com`.
 
 ```bash
 npm install
-npm run dev
+npm run server
 ```
 
 ## Deployment

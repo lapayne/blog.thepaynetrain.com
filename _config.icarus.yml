@@ -257,8 +257,11 @@ plugins:
     policyLink: https://www.cookiesandyou.com/
   # Enable the lightGallery and Justified Gallery plugins
   gallery: true
+  google_analytics:
+    # Google Analytics tracking ID
+    tracking_id: G-044GHBGPXB
   # Google Analytics plugin settings
-  # https://analytics.google.com
+  #https://analytics.google.com
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:

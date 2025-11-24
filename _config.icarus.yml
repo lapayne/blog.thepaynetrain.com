@@ -99,7 +99,7 @@ head:
     # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
     - ""
   # URL or path to the website's RSS atom.xml
-  rss:
+  rss: rss.xml
 # Page top navigation bar configurations
 navbar:
   # Navigation menu items
@@ -142,7 +142,27 @@ article:
   # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
   update_time: true
   # Article licensing block
+feed:
+  # Specify feed type(s). You can choose 'atom' or 'rss2' or both.
+  type: rss2 # Use rss2 for a standard RSS file. You can also use ['atom', 'rss2']
 
+  # The path to the generated feed file(s). Must follow the order of 'type'.
+  path: rss.xml
+
+  # Maximum number of posts to include in the feed. Use 0 to show all posts.
+  limit: 20
+
+  # URL of the PubSubHubbub hubs (optional)
+  hub:
+
+  # Set to 'true' to include the full post content in the feed.
+  content: false
+
+  # Add feed autodiscovery link in <head> tag. (Recommended: keep true unless your theme already does it)
+  autodiscovery: true
+
+  # Sorting order for the posts (e.g., -date for descending date)
+  order_by: "-date"
 search:
   type: insight
   # Whether to include pages in the search results
@@ -190,7 +210,7 @@ widgets:
         url: https://www.linkedin.com/in/leepayne82
       RSS:
         icon: fas fa-rss
-        url: /
+        url: /atom.xml
   # Table of contents widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
     position: left

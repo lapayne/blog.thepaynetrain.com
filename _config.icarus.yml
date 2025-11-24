@@ -98,7 +98,7 @@ head:
     # Meta tag specified in <attribute>=<value> style
     # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
     - ""
-  # URL or path to the website's RSS atom.xml
+  # URL or path to the website's RSS rss.xml
   rss: rss.xml
 # Page top navigation bar configurations
 navbar:
@@ -210,7 +210,7 @@ widgets:
         url: https://www.linkedin.com/in/leepayne82
       RSS:
         icon: fas fa-rss
-        url: /atom.xml
+        url: /rss.xml
   # Table of contents widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
     position: left

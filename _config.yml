@@ -64,3 +64,6 @@ widgets:
     position: left
   - type: recent_posts
     position: right
+feed:
+  type: "rss2"
+  path: "rss.xml"

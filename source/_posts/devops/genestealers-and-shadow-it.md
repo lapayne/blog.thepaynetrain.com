@@ -1,5 +1,5 @@
 ---
-title: Genestelers-and-shadow-it
+title: Genestealers and shadow IT
 date: 2026-01-05 00:00:00
 tags:
   - warhammer40k
@@ -59,7 +59,7 @@ The Shadow IT Catastrophe, This is the moment a major crisis hits. A new regulat
 
 That internal compromise, born of stagnant bureaucracy and fear of change, enabled the external threat to succeed. The technical debt wasn't just in the system, it was the system itself.
 
-## How to Defeat the Cul
+## How to Defeat the Cult
 
 To survive the Genestealer Cults of Shadow IT, the organization must commit the ultimate heresy: replace ritual with curiosity.
 

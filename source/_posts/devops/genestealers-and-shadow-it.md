@@ -1,13 +1,13 @@
 ---
 title: Genestealers and shadow IT
-date: 2026-01-05 00:00:00
+date: 2025-12-15 00:00:00
 tags:
   - warhammer40k
   - genestealers
 published: true
 ---
 
-![](/images/devops/genestealer-shadowit.png)
+![Genestealer infront of a monitor and servators](/images/devops/genestealer-shadowit.png)
 
 ---
 
@@ -21,7 +21,7 @@ If the Adeptus Mechanicus, with their litanies and fear of change, represents IT
 
 ## When Policy Breeds Heresy
 
-Shadow IT, the use of unauthorized software, cloud services, and custom code outside of central IT's oversight, it doesn't start maliciously. It starts because the approved processes are slow, cumbersome, or simply unable to deliver at the agilty the business needs.
+Shadow IT, the use of unauthorized software, cloud services, and custom code outside of central IT's oversight, it doesn't start maliciously. It starts because the approved processes are slow, cumbersome, or simply unable to deliver at the agility the business needs.
 
 An employee or business unit, frustrated by the IT department's ticket backlog for simple cloud service access or provisioning a VM, finds an app that does the job instantly. A manager, needing rapid data analysis, exports critical records to a personal spreadsheet on a personal cloud drive or into a cloud analytics platform.
 
@@ -29,7 +29,7 @@ This is the moment the Genestealer first infects the host (your organization). T
 
 ## The Blight of the Unseen Hybrid
 
-Genestealer Cults are defined by their hybrid nature: a fusion of human form (some would say the perfect form #allhailtheemperor) and heretical alien genetic taint. They appear as normal citizens, workers, officials, even members of the defence force, but beneath the surface, they are something else entirely.
+Genestealer Cults are defined by their hybrid nature: a fusion of human form (some would say the perfect form #allhailtheemperor) and heretical alien genetic taint. They appear as normal citizens, workers, officials, even members of the defense force, but beneath the surface, they are something else entirely.
 
 **The Shadow IT Hybrid:** This is the unsanctioned script or the personal SaaS account that pulls data from the secure, central system and integrates it with a faster, more modern external tool. It's a functional, but unmanaged hybrid solution. It performs a key task and may even be a vital part of the workflow, but its security, dependencies, and data flow are completely invisible to the main organization's defense (the IT Security team), leaving a gap through which the genestealers can further spread.
 
@@ -37,7 +37,7 @@ Genestealer Cults are defined by their hybrid nature: a fusion of human form (so
 
 ## The Spreading Taint, Debt by Dependency
 
-A single Genestealer is not the true threat, the threat is the Broodmind, the interconnected, spreading web of compromised individuals who secretly support the Cult.
+A single Genestealer is not the true threat, the threat is the Hivemind, the interconnected, spreading web of compromised individuals who secretly support the Cult.
 
 That initial, pragmatic app used by one team to quickly resolve a problem spreads to a second team, then a third, the onwards through the organization. The custom script that 'Tom the Servitor' wrote to convert files is suddenly relied upon by three different departments, who have built their own processes on top of it. Shadow IT scales organically, not architecturally, it can be chaotic in its nature and like a genestealer cult insidiously take over under the nose of the authorities (IT).
 

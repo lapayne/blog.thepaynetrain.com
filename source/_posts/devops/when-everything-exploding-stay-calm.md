@@ -9,7 +9,7 @@ tags:
   - PsychologicalSafety
 ---
 
-![](/images/devops/borderlands-incidentmanagement.png)
+![Borderlands characters infront of an incident screen](/images/devops/borderlands-incidentmanagement.png)
 Incident management, by the very nature of the beast, is never clean. It’s noisy, confusing, fraught with danger, and full of people with strong opinions on the best way to resolve the issues. Which, coincidentally, is also the opening of _Borderlands_ (you can pick your favorite in the franchise—they are all relevant).
 
 _Borderlands_ is one long, barely-contained disaster, a futuristic world that's broken down, with science gone mad, and the heroes improvising solutions. If that doesn’t sound like a war room during a Severity-1 outage, I don't know what is (if you know, you know).

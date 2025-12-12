@@ -9,7 +9,7 @@ tags:
   - Enterprise Architecture
 ---
 
-![](/images/devops/warhammer-legacy-systems.png)
+![A warhound titan infront of old computers](/images/devops/warhammer-legacy-systems.png)
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Philosophy
 ---
 
-![](/images/devops/wurzels-devops.png)
+![A west country band playing instruments](/images/devops/wurzels-devops.png)
 
 ---
 

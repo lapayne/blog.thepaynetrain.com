@@ -23,9 +23,9 @@ In the chaotic landscape of modern software development and platform support, th
 
 To understand how to lead a transformation of the scale of transforming a "kingdom", we look to the rugged age of **High Adventure.** What better way to start off the year than by examining one of my favorite films, the cult classic Conan the Barbarian, at first glance it doesn't seem like this fantasy tale of swords and sorcery has much to do with the modern world of Devops, but as you've seen from previous articles I can make anything about Devops and enjoy using pop culture to broaden understanding of the concepts and tenets of DevOps and Agile leadership. Why not learn about Devops leadership while indulging in some campy fun with a classic Christmas film (Don't fact check me on this) thats the greatest since Gremlins.
 
-For those who don't know about the Conan books or films, let’s talk about our protagonist. Created by Robert E. Howard in 1932, **Conan the Cimmerian** is the quintessential "Self-Made Man." He was born on a battlefield and spent his life as a prisoner toiling on the wheel of pain (and what better metaphor for toil and manual processes than the wheel of pain), thief, pirate, mercenary, and eventually, a King all by his own hand. He is the perfect mascot for **DevOps** because he is ruthlessly efficient, highly adaptable, and driven by results, just as any good DevOps engineer should be. He doesn't care about legacy processes or "the way we've always done things", if a wall is in his way, he climbs it; if a god is a bottleneck, he kills it.
-
 ## <!--more -->
+
+For those who don't know about the Conan books or films, let’s talk about our protagonist. Created by Robert E. Howard in 1932, **Conan the Cimmerian** is the quintessential "Self-Made Man." He was born on a battlefield and spent his life as a prisoner toiling on the wheel of pain (and what better metaphor for toil and manual processes than the wheel of pain), thief, pirate, mercenary, and eventually, a King all by his own hand. He is the perfect mascot for **DevOps** because he is ruthlessly efficient, highly adaptable, and driven by results, just as any good DevOps engineer should be. He doesn't care about legacy processes or "the way we've always done things", if a wall is in his way, he climbs it; if a god is a bottleneck, he kills it.
 
 \* **Conan: The Empowered "T-Shaped" Contributor**
 
@@ -75,6 +75,44 @@ We can model the real world from those experienced by the world of Conan
 | Banishment of Ghosts     |    MTTR (How fast do we recover from a curse?)     |
 
 Without a Wizard, you are flying blind. A leader must value the data-driven story as much as the sword-swinging action feature work. If you aren't measuring it, it didn't happen, and you're likely to get cursed by a "ghost in the machine" you didn't see coming, as we often say in operations "If there's no ticket the work never happened", bringing everything to the light and showing everything warts and all is the only way to ensure we have a robust system.
+
+### The Conan 9 box model
+
+You may be asking yourself how can I determine which type of Conan character each member of my DevOps team is? well finally you can answer that most important question using a 9 box model. This is the model you've likely seen a hundred times, this shows where people fit in your organisation, not everyone can be a superstar and nor would you want that.
+
+![9 box Model](/images/devops/conan-9box.jpg)
+
+Now with a Conan twist which should help you identify where each member of your team fit.
+
+![Conan's 9 box Model](/images/devops/conan-9box-custom.png)
+
+### The War Room: Mapping Your Mercenaries
+
+Every leader must eventually look at their team and decide who is ready to storm the castle and who is just taking up space around the campfire.
+
+#### High Potential
+
+**The King (Conan)** [High Performance]: Your absolute "Star." Consistent, high-impact, and ready to lead the entire kingdom. He doesn't just do the work; he changes the world. Give him autonomy and get out of his way.
+
+**The Emerging Thief** [Moderate Performance]: Growing fast and highly adaptable. They are learning the ropes but show flashes of brilliance. They are ready for more complex "heists" (sprints) to test their mettle.
+
+**The Young Cimmerian** [Low Performance]: High raw talent but lacks discipline. They have the "Steel" in them, but it hasn't been forged yet. They need a mentor to show them the path.
+
+#### Moderate Potential
+
+**The Shield Maiden (Valeria)** [High Performance]: A high-impact performer who knows the current system inside and out. She is reliable in a fight but might be more focused on the current "raid" than long-term kingdom-building.
+
+**The Reliable Mercenary** [Moderate Performance]: Your solid "core" contributor. They keep the campfire burning and the code flowing. They do the day-to-day work with no complaints, but they aren't looking to wear the crown.
+
+**The Cultist [Low Performance]**: Follows orders but lacks initiative. At high risk of becoming a "Thulsa Doom" sycophant if not challenged to think for themselves.
+
+#### Low Potential
+
+**The Chronicler (Akiro)** [High Performance]: A vital specialist with deep knowledge, but they have reached their peak growth in this domain. They are your "Subject Matter Expert" (SME)—keep them happy, but don't force them into leadership.
+
+**The Village Guard** [Moderate Performance]: Capable of routine tasks but highly resistant to new "magic" or automation. They are comfortable with the status quo and will resist the DevOps transformation.
+
+**The Camel [Low Performance]**: (The one Conan punched). Adding no value and actively hindering the journey through "toil" and negativity. They need to be offboarded before they slow down the entire party.
 
 ### Conclusion: The Riddle of Steel
 

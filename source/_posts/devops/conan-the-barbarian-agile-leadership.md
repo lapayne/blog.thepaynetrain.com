@@ -1,6 +1,6 @@
 ---
 title: conan's guide to agile leadership
-date: 2026-01-05 00:00:00
+date: 2026-01-01 00:00:00
 tags:
   - conan
   - leadership

@@ -25,5 +25,8 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-icarus": "^6.1.1",
     "hexo-theme-landscape": "^1.0.0"
+  },
+  "devDependencies": {
+    "baseline-browser-mapping": "^2.9.14"
   }
 }

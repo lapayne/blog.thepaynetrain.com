@@ -33,9 +33,9 @@ The role of technology in schools is expanding rapidly. AI tools are moving from
 
 Alongside official systems, a significant amount of software enters schools through informal channels. Teachers, acting with the best intentions, often adopt tools recommended by peers or discovered independently rather than through deliberate, trust-level selection. This “shadow IT” is not a failure of professionalism; it is a rational response to immediate classroom needs. However, it introduces real challenges around security, data protection, consistency, and operational oversight—particularly when schools are already operating within tight constraints.
 
-These pressures expose a deeper mismatch between how schools currently operate and what modern education now demands. Traditional procurement, approval, and update cycles were designed for slower-moving environments and struggle to keep pace with hyper-personalised pedagogy, real-time feedback, and increasing parental expectations around responsiveness and accommodation.
+These pressures expose a deeper mismatch between how schools currently operate and what modern education now demands. Traditional procurement, approval, and update cycles were designed for slower-moving environments and struggle to keep pace with hyper-personalized pedagogy, real-time feedback, and increasing parental expectations around responsiveness and accommodation.
 
-To truly “move the needle,” EdTech providers and school IT leaders must look beyond tooling alone and toward DevOps as a cultural framework for continuous improvement—one that emphasises flow, fast feedback, shared ownership, and safe, incremental change.
+To truly “move the needle,” EdTech providers and school IT leaders must look beyond tooling alone and toward DevOps as a cultural framework for continuous improvement—one that emphasizes flow, fast feedback, shared ownership, and safe, incremental change.
 
 ## The Shift to "Living" Platforms
 
@@ -61,7 +61,7 @@ Traditionally, curricula and supporting resources are refreshed on an annual cyc
 
 For those outside of a technical space think of Infrastructure as Code as a way to tell your systems what they should be like, for example every computer has the Wi-Fi passwords set correctly, they have all required software installed etc.. controlled by code not manually done.
 
-For large academy trusts managing hundreds or thousands of devices and applications, manual configuration quickly becomes a bottleneck. Infrastructure as Code allows IT teams to provision secure, standardised learning environments across multiple schools through zero-touch deployment. It also ensures platforms remain in a known, reliable state, improving resilience, security, and consistency while reducing operational overhead.
+For large academy trusts managing hundreds or thousands of devices and applications, manual configuration quickly becomes a bottleneck. Infrastructure as Code allows IT teams to provision secure, standardized learning environments across multiple schools through zero-touch deployment. It also ensures platforms remain in a known, reliable state, improving resilience, security, and consistency while reducing operational overhead.
 
 ### Breaking Down the Silos
 
@@ -78,7 +78,7 @@ The ultimate goal of applying DevOps principles to EdTech is simple: reliability
 
 Reliability comes from automated testing, monitoring, and resilient platforms, making issues such as “the Wi-Fi is down” or “the app won’t load” rare exceptions rather than daily disruptions.
 
-Relevance comes from responsiveness. Through real-time data and feedback loops, platforms can adapt instruction to pupil readiness, learning patterns, and individual needs—supporting hyper-personalised learning experiences that evolve alongside the child.
+Relevance comes from responsiveness. Through real-time data and feedback loops, platforms can adapt instruction to pupil readiness, learning patterns, and individual needs—supporting hyper-personalized learning experiences that evolve alongside the child.
 
 These ideas are not just theoretical they have been implemented already by MATs to improve outcomes at scale and in shorter timeframes.
 

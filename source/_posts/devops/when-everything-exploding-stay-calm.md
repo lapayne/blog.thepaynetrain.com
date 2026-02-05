@@ -71,5 +71,3 @@ And you don’t build resilience through control, you build it through trust, hu
 Because in both Pandora and production, as the vault hunters would put it: **Everything explodes eventually. The only thing that matters is who’s still standing and who’s still laughing when the smoke clears.**
 
 ---
-
-I've created the new Hexo post file for you. Would you like me to now draft a social media post (e.g., for Twitter or LinkedIn) to help **promote** this new article?

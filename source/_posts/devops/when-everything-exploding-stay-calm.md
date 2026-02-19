@@ -69,5 +69,3 @@ You don’t eliminate risk; you respawn smarter next time.
 And you don’t build resilience through control, you build it through trust, humor, and a healthy respect for the absurd.
 
 Because in both Pandora and production, as the vault hunters would put it: **Everything explodes eventually. The only thing that matters is who’s still standing and who’s still laughing when the smoke clears.**
-
----

@@ -11,14 +11,19 @@ tags:
 published: true
 ---
 
-In the Mortal Realms of Age of Sigmar, stability is an illusion. Civilizations rise only to be tested by the encroaching tide of destruction. For the Orruk Warclans, the "Waaagh!" isn't just a battle cry—it’s a rigorous, unscripted stress test of the environment.
+In the Mortal Realms of Age of Sigmar, **stability is an illusion**. Civilizations rise only to be tested by the encroaching tide of destruction and all too often fall. For the Orruk Warclans, the "Waaagh!" isn't just a battle cry, it’s a rigorous, unscripted stress test of the environment which is the heart of chaos engineering.
 
 If you want to move beyond basic uptime and achieve true Systemic Resilience, you need to stop thinking like a timid scribe in Azyr and start thinking like a Megaboss.
 
 ## <!--more -->
 
-1. The Ironjawz and the "Blast Radius"
-   The Ironjawz don't care about "graceful degradation." They care about what remains standing after the impact. Their approach to a fortress is exactly how we should approach Failure Injection.
+For those who do not know Chaos engineering is the discipline of performing controlled experiments to uncover weaknesses before they cause a outage.
+
+Instead of waiting for a random failure, SREs proactively create "Chaos" into the system such as server crashes, network latency, or database disconnects, into a production-like environment (Only the very brave or foolhardy would do it directly into production, but you can!). The goal is to prove that the system’s automated recovery processes and procedures (e.g., circuit breakers, auto-scaling, or failover) works as designed and keeps your systems running.
+
+### The Ironjawz and the "Blast Radius"
+
+The Ironjawz don't care about "graceful degradation." They care about what remains standing after the impact. Their approach to a fortress is exactly how we should approach Failure Injection.
 
 The SRE Principle: Minimize Blast Radius.
 

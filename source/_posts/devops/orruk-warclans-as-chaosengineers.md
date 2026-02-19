@@ -11,6 +11,7 @@ tags:
 published: true
 ---
 
+![Orruks as Chaos Engineers](/images/devops/orruks-chaos-engineers.png)
 In the Mortal Realms of Age of Sigmar, **stability is an illusion**. Civilizations rise only to be tested by the encroaching tide of destruction and all too often fall. For the Orruk Warclans, the "Waaagh!" isn't just a battle cry, it’s a rigorous, unscripted stress test of the environment which is the heart of chaos engineering.
 
 If you want to move beyond basic uptime and achieve true Systemic Resilience, you need to stop thinking like a timid scribe in Azyr and start thinking like a Megaboss.
@@ -31,8 +32,9 @@ The Orruk Method: An Ironjawz Brute doesn't just tap the wall; he smashes the ga
 
 The Depth: In Chaos Engineering, we use "Canary Deployments" or "Network Partitioning" to limit the damage. By simulating a region-wide outage in a controlled "Ironjawz Charge," we identify if our blast radius is contained or if our "fortress" (infrastructure) has a single point of failure that brings down the entire Realm.
 
-2. The Kruleboyz: Testing the "Grey Failures"
-   The Kruleboyz of the Ghurish swamps are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a Grey Failure.
+### The Kruleboyz: Testing the "Grey Failures"
+
+The Kruleboyz of the Ghurish swamps are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a Grey Failure.
 
 The SRE Principle: Addressing Latency and Partial Failures.
 
@@ -40,8 +42,9 @@ The Orruk Method: Poisoned bolts that introduce a "slow burn."
 
 The Depth: A total server crash is easy to detect—the monitoring turns red. But a Kruleboyz-style "brownout"—where a service is technically "up" but responding with 2-second latency—is a silent killer. Chaos Engineering involves injecting packet loss and jitter to ensure your circuit breakers trip correctly before the "poison" spreads to your upstream services.
 
-3. The Bonesplitterz: The Primitive Power of Chaos
-   The Bonesplitterz are driven by the "Spirit of Gorkamorka." They strip away the "civilized" armor to find the raw power underneath.
+### The Bonesplitterz: The Primitive Power of Chaos
+
+The Bonesplitterz are driven by the "Spirit of Gorkamorka." They strip away the "civilized" armor to find the raw power underneath.
 
 The SRE Principle: Continuous Verification.
 
@@ -49,8 +52,9 @@ The Orruk Method: Hunting the biggest monsters to see what makes them tick (or s
 
 The Depth: Resilience isn't a "one and done" checklist. It is a primitive, ongoing cycle. By constantly "hunting" for vulnerabilities in production—killing random pods, throttling CPU, or simulating disk exhaustion—you ensure the "spirit" of your application is strong enough to survive without its "armor" (ideal conditions).
 
-4. Gorkamorka’s Law: The Steady State Hypothesis
-   Every Waaagh! begins with a baseline of "normal" Orruk rowdiness. To measure chaos, you must first define order.
+### Gorkamorka’s Law: The Steady State Hypothesis
+
+Every Waaagh! begins with a baseline of "normal" Orruk rowdiness. To measure chaos, you must first define order.
 
 The SRE Principle: Define the Steady State.
 
@@ -58,5 +62,6 @@ The Orruk Method: If the boyz aren't fighting, something is wrong.
 
 The Depth: Before you inject chaos, you must define what "Normal" looks like. What is your baseline latency? Your normal error rate? If you don't have high-fidelity Observability, you aren't doing Chaos Engineering; you’re just breaking things in the dark.
 
-Final Thought: Faith in the "Big Green"
+### Final Thought's: Faith in the "Big Green"
+
 Chaos Engineering is often feared because it feels like inviting destruction into your house. But the Orruks know a truth that many CTOs miss: The storm is coming regardless. You can either wait for a random, catastrophic failure to test your system at 3:00 AM, or you can be the "Big Green" yourself. Break it on your terms. Smash the gates. Poison the network. Only then will you know if your "Mortal Realm" is truly built to last.

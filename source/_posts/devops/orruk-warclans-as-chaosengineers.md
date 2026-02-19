@@ -24,7 +24,7 @@ Instead of waiting for a random failure, SREs proactively create "Chaos" into th
 
 ### The Ironjawz and the "Blast Radius"
 
-The Ironjawz don't care about "graceful degradation." They care about what remains standing after the impact. Their approach to a fortress is exactly how we should approach Failure Injection.
+The **Ironjawz** don't care about "graceful degradation." They care about what remains standing after the impact. Their approach to a fortress is exactly how we should approach Failure Injection.
 
 The SRE Principle: Minimize Blast Radius.
 
@@ -34,7 +34,7 @@ The Depth: In Chaos Engineering, we use "Canary Deployments" or "Network Partiti
 
 ### The Kruleboyz: Testing the "Grey Failures"
 
-The Kruleboyz of the Ghurish swamps are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a Grey Failure.
+The **Kruleboyz of the Ghurish swamps** are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a Grey Failure.
 
 The SRE Principle: Addressing Latency and Partial Failures.
 
@@ -44,7 +44,7 @@ The Depth: A total server crash is easy to detect—the monitoring turns red. Bu
 
 ### The Bonesplitterz: The Primitive Power of Chaos
 
-The Bonesplitterz are driven by the "Spirit of Gorkamorka." They strip away the "civilized" armor to find the raw power underneath.
+The **Bonesplitterz** are driven by the "Spirit of Gorkamorka." They strip away the "civilized" armor to find the raw power underneath.
 
 The SRE Principle: Continuous Verification.
 

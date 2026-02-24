@@ -18,50 +18,45 @@ If you want to move beyond basic uptime and achieve true Systemic Resilience, yo
 
 ## <!--more -->
 
+### Whats is Chaos Engineering?
+
 For those who do not know Chaos engineering is the discipline of performing controlled experiments to uncover weaknesses before they cause a outage.
 
 Instead of waiting for a random failure, SREs proactively create "Chaos" into the system such as server crashes, network latency, or database disconnects, into a production-like environment (Only the very brave or foolhardy would do it directly into production, but you can!). The goal is to prove that the system’s automated recovery processes and procedures (e.g., circuit breakers, auto-scaling, or failover) works as designed and keeps your systems running.
 
 ### The Ironjawz and the "Blast Radius"
 
-The **Ironjawz** don't care about "graceful degradation." They care about what remains standing after the impact. Their approach to a fortress is exactly how we should approach Failure Injection.
+The **Ironjawz** don't care about "graceful degradation." They care about what's left standing after the impact. An Ironjawz Brute doesn't just tap on a fortress wall; he smashes the main gate to see if the whole structure collapses.
 
-The SRE Principle: Minimize Blast Radius.
-
-The Orruk Method: An Ironjawz Brute doesn't just tap the wall; he smashes the gate to see if the whole structure collapses.
-
-The Depth: In Chaos Engineering, we use "Canary Deployments" or "Network Partitioning" to limit the damage. By simulating a region-wide outage in a controlled "Ironjawz Charge," we identify if our blast radius is contained or if our "fortress" (infrastructure) has a single point of failure that brings down the entire Realm.
+For an SRE, this mirrors the critical need to minimize the blast radius. An Ironjawz charge is a perfect metaphor for using Chaos Engineering practices like Canary Deployments or Network Partitioning. By simulating a region-wide outage in a controlled way, we find out if our "fortress" (infrastructure) has a single point of failure that could bring down the entire Realm, ensuring the damage from any one attack is contained.
 
 ### The Kruleboyz: Testing the "Grey Failures"
 
-The **Kruleboyz of the Ghurish swamps** are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a Grey Failure.
+The **Kruleboyz of the Ghurish swamps** are masters of the "Muck-trick." They don't kill you instantly; they weaken you, slow your pulse, and let your own systems fail you. In tech, we call this a **Grey Failure**.
+For an SRE, these are the most dangerous threats: latency and partial failures. It's the slow, creeping doom where database locks get longer and response times increase until everything grinds to a halt. A total server crash is easy to detect, the monitoring turns red. But a Kruleboyz-style "brownout," where a service is technically "up" but responding with 2-second latency, is a silent killer.
 
-The SRE Principle: Addressing Latency and Partial Failures.
-
-The Orruk Method: Poisoned bolts that introduce a "slow burn."
-
-The Depth: A total server crash is easy to detect—the monitoring turns red. But a Kruleboyz-style "brownout"—where a service is technically "up" but responding with 2-second latency—is a silent killer. Chaos Engineering involves injecting packet loss and jitter to ensure your circuit breakers trip correctly before the "poison" spreads to your upstream services.
+This is where Chaos Engineering helps you fight back. By proactively injecting packet loss and jitter, you can test if your circuit breakers trip correctly before the "poison" spreads to your upstream services.
 
 ### The Bonesplitterz: The Primitive Power of Chaos
 
-The **Bonesplitterz** are driven by the "Spirit of Gorkamorka." They strip away the "civilized" armor to find the raw power underneath.
+The **Bonesplitterz** are driven by the "Spirit of Gorkamorka." They strip away the "civilized" to find the raw power underneath. For an SRE, this is the essence of Continuous Verification.
+For an SRE this is looking at Continuous Verification, looking for weaknesses and any points of failure constantly as we continue to build and develop systems.
 
-The SRE Principle: Continuous Verification.
+esilience isn't a feature you add; it's the inherent "spirit" of your application. By constantly "hunting" for vulnerabilities in production, you ensure your application is strong enough to survive even when its protective "armor" (ideal operating conditions) is stripped away. This includes practices like:
 
-The Orruk Method: Hunting the biggest monsters to see what makes them tick (or stop ticking).
+- Killing random pods
 
-The Depth: Resilience isn't a "one and done" checklist. It is a primitive, ongoing cycle. By constantly "hunting" for vulnerabilities in production—killing random pods, throttling CPU, or simulating disk exhaustion—you ensure the "spirit" of your application is strong enough to survive without its "armor" (ideal conditions).
+- Throttling CPU
+
+- Simulating disk exhaustion
 
 ### Gorkamorka’s Law: The Steady State Hypothesis
 
-Every Waaagh! begins with a baseline of "normal" Orruk rowdiness. To measure chaos, you must first define order.
-
-The SRE Principle: Define the Steady State.
-
-The Orruk Method: If the boyz aren't fighting, something is wrong.
-
-The Depth: Before you inject chaos, you must define what "Normal" looks like. What is your baseline latency? Your normal error rate? If you don't have high-fidelity Observability, you aren't doing Chaos Engineering; you’re just breaking things in the dark.
+Every Waaagh! begins with a baseline of "normal" Orruk rowdiness (if normal can be used for anything orruks do). To measure chaos, you must first define order. For Orruks if the "boyz" aren't fighting them something is wrong, war is their baseline.
+For SRE's this means defining the Steady State, what is normal? what does database load look like, what peaks and troughs are usual, how fast are response times under usual load etc.. without knowing what "good" looks like you wont be able to spot when something goes wrong. If you don't have high-fidelity Observability, you aren't doing Chaos Engineering; you’re just breaking things in the dark and cosplaying Chaos Engineering. 
 
 ### Final Thought's: Faith in the "Big Green"
 
-Chaos Engineering is often feared because it feels like inviting destruction into your house. But the Orruks know a truth that many CTOs miss: The storm is coming regardless. You can either wait for a random, catastrophic failure to test your system at 3:00 AM, or you can be the "Big Green" yourself. Break it on your terms. Smash the gates. Poison the network. Only then will you know if your "Mortal Realm" is truly built to last.
+Chaos Engineering is often feared because it feels like inviting destruction into your house. But the Orruks know a truth that many executives miss: The storm is coming if you're ready or not. 
+You can either wait for a random, catastrophic failure to test your system in the middle of the night with only your on-call engineer around, or you can be the "Big Green Waaagh" yourself. 
+Break it on your terms. Smash the gates. Poison the network. Attack with full force. Only then will you know if your own "Mortal Realm" is truly built to last or will join the many other failed kingdoms when Chaos comes for you.

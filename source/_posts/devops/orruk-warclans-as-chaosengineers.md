@@ -39,6 +39,8 @@ This is where Chaos Engineering helps you fight back. By proactively injecting p
 
 ### The Bonesplitterz: The Primitive Power of Chaos
 
+![GorkaMorka as a SRE](/images/devops/orruks-gorkamorka.png)
+
 The **Bonesplitterz** are driven by the "Spirit of Gorkamorka." They strip away the "civilized" to find the raw power underneath. For an SRE, this is the essence of Continuous Verification.
 For an SRE this is looking at Continuous Verification, looking for weaknesses and any points of failure constantly as we continue to build and develop systems.
 
@@ -53,10 +55,10 @@ esilience isn't a feature you add; it's the inherent "spirit" of your applicatio
 ### Gorkamorka’s Law: The Steady State Hypothesis
 
 Every Waaagh! begins with a baseline of "normal" Orruk rowdiness (if normal can be used for anything orruks do). To measure chaos, you must first define order. For Orruks if the "boyz" aren't fighting them something is wrong, war is their baseline.
-For SRE's this means defining the Steady State, what is normal? what does database load look like, what peaks and troughs are usual, how fast are response times under usual load etc.. without knowing what "good" looks like you wont be able to spot when something goes wrong. If you don't have high-fidelity Observability, you aren't doing Chaos Engineering; you’re just breaking things in the dark and cosplaying Chaos Engineering. 
+For SRE's this means defining the Steady State, what is normal? what does database load look like, what peaks and troughs are usual, how fast are response times under usual load etc.. without knowing what "good" looks like you wont be able to spot when something goes wrong. If you don't have high-fidelity Observability, you aren't doing Chaos Engineering; you’re just breaking things in the dark and cosplaying Chaos Engineering.
 
 ### Final Thought's: Faith in the "Big Green"
 
-Chaos Engineering is often feared because it feels like inviting destruction into your house. But the Orruks know a truth that many executives miss: The storm is coming if you're ready or not. 
-You can either wait for a random, catastrophic failure to test your system in the middle of the night with only your on-call engineer around, or you can be the "Big Green Waaagh" yourself. 
+Chaos Engineering is often feared because it feels like inviting destruction into your house. But the Orruks know a truth that many executives miss: The storm is coming if you're ready or not.
+You can either wait for a random, catastrophic failure to test your system in the middle of the night with only your on-call engineer around, or you can be the "Big Green Waaagh" yourself.
 Break it on your terms. Smash the gates. Poison the network. Attack with full force. Only then will you know if your own "Mortal Realm" is truly built to last or will join the many other failed kingdoms when Chaos comes for you.

@@ -15,7 +15,7 @@ tags:
 published: true
 ---
 
-![A classroom using technology](/images/devops/devops-education.png)
+![A classroom using technology](/images/edtech/itil_classroom.png)
 
 ---
 
@@ -25,7 +25,9 @@ When Wi-Fi drops or a learning platform lags, it isn't just a technical issue �
 
 In a world where digital platforms power everything from early years to the working world, EdTech has moved from “nice to have” to mission-critical. Yet many schools and trusts still struggle with stability, scaling, and delivering services that actually support teaching and learning.
 
-ITIL can be transformational — not just for traditional technology, but for the entire service lifecycle of EdTech.
+ITIL can be transformational, not just for traditional technology, but for the entire service lifecycle of EdTech.
+
+## <!--more -->
 
 ### Why EdTech needs a service-led mindset
 
@@ -43,6 +45,8 @@ ITIL reframes this by centering value co-creation and service experience. This i
 > If learning outcomes improve, your IT services are working — even if users never say “ITIL.”
 
 ### Core ITIL principles for EdTech
+
+![ITIL Principal value stream](/images/edtech/itil_principals.png)
 
 #### 1. Start with value
 
@@ -143,4 +147,3 @@ ITIL is not about slowing down. It is about smoothing the path to dependable, pu
 At its best, EdTech empowers minds. But for that to happen consistently, the underlying services must be predictable, aligned to real needs, and always improving.
 
 ITIL gives EdTech a language and a framework to make technology support pedagogy, not distract from it. Let’s build EdTech that keeps classrooms humming, pupils engaged, and educators empowered.
-

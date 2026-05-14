@@ -13,8 +13,6 @@ tags:
 
 ---
 
-+101 desc
-
 In the grim darkness of the far future, there is only **technical debt**.
 
 If you’ve ever stared at a decades-old code and thought, "we can’t touch that, it’s sacred", congratulations, you’re already living in the 41st millennium.

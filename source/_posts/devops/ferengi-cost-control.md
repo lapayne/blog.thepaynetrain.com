@@ -8,7 +8,7 @@ tags:
   - cloud
   - devops
   - sre
-  - cost optimization
+  - cost optimisation
 published: true
 ---
 
@@ -20,11 +20,11 @@ Most cloud cost problems are not finance problems.
 
 They’re architecture problems, operational problems, and occasionally ego problems.
 
-A few Ferengi Rules of Acquisition map surprisingly well to cloud cost optimization.
+A few Ferengi Rules of Acquisition map surprisingly well to cloud cost optimisation.
 
 ## <!--more -->
 
-Most organizations treat cloud costs as unavoidable overhead. That’s a mistake. In modern infrastructure, cloud spend is one of the few operational costs engineers can directly influence in real time. By adopting the ethos of the Ferengi and their Rules of Acquisition, DevOps and SRE engineers and leaders can transform cost optimization from a reactive chore into a strategic driver of efficient resource utilization.
+Most organisations treat cloud costs as unavoidable overhead. That’s a mistake. In modern infrastructure, cloud spend is one of the few operational costs engineers can directly influence in real time. By adopting the ethos of the Ferengi and their Rules of Acquisition, DevOps and SRE engineers and leaders can transform cost optimisation from a reactive chore into a strategic driver of efficient resource utilisation.
 
 Without further ado, here are 5 Rules of Acquisition that can save you money.
 
@@ -43,7 +43,7 @@ Before migrating any service, audit your telemetry carefully to ensure the "chea
 
 Cloud providers offer multiple ways to commit to capacity: Savings Plans, committed-use discounts, and Reserved Instances (RIs). These are not administrative checkboxes; they are financial levers.
 The key is understanding your workloads well enough to commit confidently.
-Experienced engineers usually know what “good” looks like. They understand normal utilization patterns, expected performance, and which services represent stable baseline demand. When that operational knowledge is combined with long-term capacity planning, it can significantly reduce monthly cloud spend.
+Experienced engineers usually know what “good” looks like. They understand normal utilisation patterns, expected performance, and which services represent stable baseline demand. When that operational knowledge is combined with long-term capacity planning, it can significantly reduce monthly cloud spend.
 Every correctly sized commitment transfers margin away from the cloud provider and back into your own budget.
 
 ## Rule 22: A wise man can hear profit in the wind.
@@ -70,7 +70,7 @@ When evaluating cost-management tooling, always assess whether the "free" guidan
 The discipline of FinOps has generated a surplus of "best practices." Every consultant, vendor, and whitepaper has a strategy for improving your bottom line.
 Apply healthy scepticism to all of it.
 When was the recommendation made? Is it still relevant? Under what conditions did it work?
-What optimizes a massive monolithic legacy application is rarely ideal for a modern microservices architecture.
+What optimises a massive monolithic legacy application is rarely ideal for a modern microservices architecture.
 Listen to the broader community, but validate everything against your own environment, constraints, telemetry, and billing data. In the cloud, your metrics are the only real source of truth.
 
 ## Conclusions

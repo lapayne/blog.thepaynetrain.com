@@ -78,3 +78,13 @@ Listen to the broader community, but validate everything against your own enviro
 The Ferengi viewed every transaction as negotiable, every inefficiency as exploitable, and every assumption as dangerous.
 Cloud infrastructure should be approached the same way.
 The teams that manage cloud costs effectively are not necessarily the teams spending the least. They are the teams continuously questioning whether their architecture, commitments, and tooling still make financial sense.
+
+If you want to know more about FinOps here are some great further reading:
+
+[Finops Foundation Framework](https://www.finops.org/framework/?utm_source=x.finops.org&utm_medium=global-nav&utm_name=global-nav)
+
+[AWS Savings Plans](https://aws.amazon.com/savingsplans/)
+
+[FinOps on Azure](https://azure.microsoft.com/en-us/solutions/finops/)
+
+[Google Cloud Savings Plans](https://cloud.google.com/pricing)

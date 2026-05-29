@@ -12,7 +12,9 @@ tags:
 published: true
 ---
 
-## Controlling your cloud costs like a Ferengi: The Rules of Acquisition and the cloud.
+## The Rules of Acquisition and the cloud.
+
+![Ferengi monitoring cloud costs using finops](/images/devops/ferengi-cloud.png)
 
 Most cloud cost problems are not finance problems.
 

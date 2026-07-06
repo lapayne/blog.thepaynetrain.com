@@ -27,6 +27,6 @@
     "hexo-theme-landscape": "^1.0.0"
   },
   "devDependencies": {
-    "baseline-browser-mapping": "^2.9.19"
+    "baseline-browser-mapping": "^2.10.42"
   }
 }

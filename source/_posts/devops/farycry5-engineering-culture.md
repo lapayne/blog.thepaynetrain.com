@@ -16,6 +16,8 @@ tags:
 published: true
 ---
 
+![An engineering cult](/images/devops/culture-seed.png)
+
 ## What Far Cry 5 Understands About Engineering Culture
 
 Every high-performing technology organization is, at its heart, mission-driven. Whether it is "saving the world" with a new platform or disrupting an industry, leaders must convince their teams that their work matters in the face of an existential threat.
@@ -34,15 +36,15 @@ I am not discussing the ethics of Eden’s Gate or the morality of the Seed fami
 
 In Far Cry 5, the "Project at Eden’s Gate" functions like a hyper-scaled, high-growth startup:
 
-- Joseph Seed (The Visionary): Provides the "Why." He creates artificial urgency around a global catastrophe. In tech, this is "the competitor who will kill us", “the coming market shift” or the "technical debt that will sink us."
-- John Seed (Sales & Acquisition): Focuses on growth, alignment and onboarding. He uses the "Power of Yes" to force alignment and mirrors cultures where conformity is valued more than critical thought.
-- Jacob Seed (Operations & Performance): Uses conditioning and rigorous training to ensure the workforce is "strong" enough to survive, culling low performers through extreme pressure, fear and impossible standards.
-- Faith Seed (Engagement & Culture): Manages the morale through "Bliss," a hallucinogen that maintains a state of euphoria, masking the harsh reality of the labour. This can look a lot like perk driven positivity that distracts you from burnout, instability or ethical compromise.
+- **Joseph Seed** (The Visionary): Provides the "Why." He creates artificial urgency around a global catastrophe. In tech, this is "the competitor who will kill us", “the coming market shift” or the "technical debt that will sink us."
+- **John Seed** (Sales & Acquisition): Focuses on growth, alignment and onboarding. He uses the "Power of Yes" to force alignment and mirrors cultures where conformity is valued more than critical thought.
+- **Jacob Seed** (Operations & Performance): Uses conditioning and rigorous training to ensure the workforce is "strong" enough to survive, culling low performers through extreme pressure, fear and impossible standards.
+- **Faith Seed** (Engagement & Culture): Manages the morale through "Bliss," a hallucinogen that maintains a state of euphoria, masking the harsh reality of the labour. This can look a lot like perk driven positivity that distracts you from burnout, instability or ethical compromise.
 
 **Culture is ultimately a system of belief.**
 
 But manufactured belief is a debt that eventually comes due.
-When an engineering culture is built on "Bliss" ignoring technical debt, engineer burnout, or organisational fragility in favour of a "positivity-only" mandate the organization becomes fragile, teams lose trust in leadership the second reality breaks through.
+When an engineering culture is built on "Bliss" ignoring technical debt, engineer burnout, or organizational fragility in favour of a "positivity-only" mandate the organization becomes fragile, teams lose trust in leadership the second reality breaks through.
 True leadership requires building an identity based on reality and psychological safety, not on forced alignment or the elimination of dissent. If your team only says "Yes" because they fear saying "No," you do not have a culture; you have mindless compliance.
 To build a belief-driven culture without the toxicity of the Seed family, consider these frameworks:
 
@@ -55,6 +57,7 @@ To build a belief-driven culture without the toxicity of the Seed family, consid
 4. Conditioning for Growth, Not Compliance
    Repurpose Jacob’s "conditioning" for good. Build positive engineering habits such as automated testing, peer reviews, incident retrospectives and blameless post-mortems, through repetition, consistency and recognition you can build it into the fabric of your culture rather than using pressure to "cull the weak."
 
-Final Thoughts
+### Final Thoughts
+
 The Project at Eden’s Gate succeeded in its construction because its workers believed they were building their own salvation. As a leader, your job is to provide a mission worth believing in. Ensure your team is building a future they can actually live in, rather than just a bunker to hide from the present.
 **Strong cultures create resilient systems, toxic cultures merely create obedient people.**

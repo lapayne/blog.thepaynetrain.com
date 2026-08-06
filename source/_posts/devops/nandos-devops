@@ -1,0 +1,125 @@
+Forget Story Points: Why Your Team Should Size Agile Tasks Using Nando's PERi-ometer
+
+If you’ve spent more than five minutes in a sprint planning session, you’ve likely already endured the endless debate over whether a ticket is a 3 or a 5 pointer.
+
+We’ve all been there:
+
+"Well, it’s an 8 if Dave does it, but a 3 if Sarah does it."
+"Is Fibonacci measuring complexity, effort, or risk?"
+"Can we average the story points to 4.2?" (no, just, no.)
+Story points and T-shirt sizes were intended to break us free from time-based estimation. However, over time, they’ve often devolved into another form of rigid, low-context bureaucracy failing to accomplish the goal we had for it.
+
+It’s time to spice up sprint planning.
+
+Here’s why swapping abstract numbers for the Nando's PERi-ometer scale might be the breath of fresh air your team needs.
+
+The Nando's Agile Estimation Matrix
+
+
+Spice Level
+
+Heat Rating
+
+Risk & Complexity
+
+Example Work Item
+
+Team Action
+
+Extra Mild / Lemon & Herb
+
+🟢 🌶️
+
+Minimal complexity, predictable, zero friction
+
+UI copy changes, minor CSS tweaks, dependency bumps
+
+Handled quickly, ideal for quick wins
+
+Medium
+
+🟡 🌶️🌶️
+
+Moderate complexity, known patterns & clear specs
+
+Standard API endpoints, DB migrations, unit tests
+
+Standard sprint item, straightforward work
+
+Hot
+
+🟠 🌶️🌶️🌶️
+
+High complexity, legacy code, external dependencies
+
+Shared service refactoring, 3rd party API integration
+
+Pair programming recommended, careful monitoring
+
+Extra Hot / Vusa
+
+🔴 🌶️🌶️🌶️🌶️
+
+Extreme risk, architectural unknowns, high blast radius
+
+DB monolith migration, live auth rewrite
+
+MUST BREAK DOWN before committing to sprint
+
+Detailed Breakdown of the PERi-ometer Framework
+
+🟢 1. Extra Mild / Lemon & Herb (The Smooth Sailing Ticket)
+
+What it represents: Low risk, minimal complexity, standard implementation.
+The Vibe: Smooth, predictable, almost zero chance of heartburn.
+Example: Updating UI copy, tweaking a CSS margin, or bumping a minor dependency.
+Team Reaction: "I can knock this out before my morning coffee."
+🟡 2. Medium (The Daily Driver)
+
+What it represents: Moderate complexity with known patterns and standard patterns.
+The Vibe: Has a bit of a kick, but everyone knows what to expect.
+Example: Building a standard REST API endpoint, adding a new database migration with clear requirements, or writing unit test suites for an existing module.
+Team Reaction: "Solid work item. Clear boundaries, comfortable pace."
+🟠 3. Hot (The Sweat-Inducer)
+
+What it represents: High complexity, external dependencies, or legacy codebase touchpoints.
+The Vibe: You’re going to need a glass of milk on standby. Requires careful handling and active focus.
+Example: Refactoring a shared core service, integrating with a third-party API with dodgy documentation, or setting up multi-region failover.
+Team Reaction: "We should pair-program on this one and keep an eye on the error logs."
+🔴 4. Extra Hot / Vusa (The Break-It-Down Warning)
+
+What it represents: High risk, high unknown, potential architectural landmines.
+The Vibe: Your eyes are watering just reading the acceptance criteria.
+Example: Migrating a monolithic database to microservices without downtime, or rewriting authentication logic live in production.
+Team Reaction: "Stop! This is too hot to handle in one bite. Break it down into smaller tickets!"
+Why This Actually Works in Practice
+
+While using PERi-PERi sauce levels sounds like a gimmick, it taps into several core Agile principles:
+
+1. It Focuses on the "Heat"
+
+Story points often conflate volume of work with complexity. The PERi-ometer intuitively forces teams to evaluate risk, uncertainty, and cognitive load. A task might involve changing only two lines of code, but if it touches billing logic, it’s Extra Hot.
+
+2. It Ends "Fake Precision"
+
+When management tries to convert Story Points directly to hours (e.g., "1 point = 4 hours"), the utility of relative sizing fails. Nobody tries to convert "Medium Spice" into exact minutes of cooking time, it's inherently a qualitative measure of risk and effort.
+
+3. It Encourages Immediate Deconstruction
+
+If a team labels a story Extra Hot, the immediate cultural instinct isn't "how do we estimate this better?", but "how do we cool this down?" Breaking an Extra Hot task into two Mediums or a Mild and a Hot makes the backlog immediately healthier.
+
+4. It Makes Sprint Planning Fun
+
+Gamification in Agile isn't just about silly icebreakers; it builds psychological safety, which is a key as[ect of agile. When engineers can say, "Honestly, this ticket feels Extra Hot to me because I don't understand the legacy module," it opens honest conversations without fear of judgment.
+
+How to Try It in Your Next Refinement
+
+Set the Ground Rules: Define what "Mild" vs "Hot" means for your specific tech stack.
+Ditch the Planning Poker Cards: Replace 1, 2, 3, 5, 8 with 🌶️, 🌶️🌶️, 🌶️🌶️🌶️, 🌶️🌶️🌶️🌶️.
+Establish a "Too Hot" Threshold: Any ticket agreed to be 🌶️🌶️🌶️🌶️ (Extra Hot) must be split into smaller sub-tasks before entering the sprint.
+
+Over to You 💬
+
+What unusual estimation scales has your team tried? Would your current sprint backlog be mostly Lemon & Herb or Extra Hot? Let me know in the comments!
+
+#Agile #SoftwareEngineering #Scrum #DevOps #ProductManagement #AgileTransformation #Nandos

@@ -1,6 +1,9 @@
 ---
 title: Forget Story Points, Why Your Team Should Size Agile Tasks Using Nando's PERi-ometer
 date: 2026-08-06 00:00:00
+categories:
+  - Tech
+  - DevOps
 tags:
   - Agile
   - SoftwareEngineering

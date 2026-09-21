@@ -1,6 +1,9 @@
 ---
 title: Controlling your cloud costs like a Ferengi
 date: 2026-06-01 00:00:00
+categories:
+  - Tech
+  - FinOps
 tags:
   - star trek
   - ferengi

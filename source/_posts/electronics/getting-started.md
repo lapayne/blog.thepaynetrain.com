@@ -1,6 +1,8 @@
 ---
 title: Getting Started with the ESP32 and and arduino IDE
 date: 2025-11-06 00:00:00
+categories:
+  - Electronics
 tags:
   - electronics
   - esp32

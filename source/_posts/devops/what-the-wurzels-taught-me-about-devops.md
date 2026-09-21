@@ -1,6 +1,9 @@
 ---
 title: What The Wurzels Taught Me About DevOps
 date: 2025-10-06 00:00:00
+categories:
+  - Tech
+  - DevOps
 tags:
   - DevOps
   - Culture

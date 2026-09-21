@@ -1,6 +1,9 @@
 ---
 title: King Arthur and the Quiet Art of Disaster Recovery
 date: 2026-02-01 00:00:00
+categories:
+  - Tech
+  - DR
 tags:
   - KingArthur
   - SouthWestUK

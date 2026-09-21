@@ -1,6 +1,9 @@
 ---
 title: Genestealers and shadow IT
 date: 2025-12-15 00:00:00
+categories:
+  - Tech
+  - ShadowIT
 tags:
   - warhammer40k
   - genestealers

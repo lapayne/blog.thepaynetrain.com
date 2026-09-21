@@ -1,6 +1,9 @@
 ---
 title: How ITIL can turn EdTech from cost center to a classroom asset
 date: 2026-05-05 00:00:00
+categories:
+  - Education
+  - ITIL
 tags:
   - EdTech
   - DevOps

@@ -1,6 +1,9 @@
 ---
 title: Chaos Engineering, Why the Orruk Warclans are the Ultimate SREs
 date: 2026-02-27 00:00:00
+categories:
+  - Tech
+  - DevOps
 tags:
   - DevOps
   - SRE

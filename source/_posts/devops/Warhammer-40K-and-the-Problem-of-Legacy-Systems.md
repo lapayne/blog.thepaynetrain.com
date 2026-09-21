@@ -1,6 +1,9 @@
 ---
 title: Warhammer 40K and the Problem of Legacy Systems
 date: 2025-11-20 00:00:00
+categories:
+  - Tech
+  - DevOps
 tags:
   - Technical Debt
   - Warhammer 40K

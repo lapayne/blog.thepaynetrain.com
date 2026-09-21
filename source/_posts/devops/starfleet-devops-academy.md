@@ -1,6 +1,9 @@
 ---
 title: The DevOps Academy and Starfleet
 date: 2026-08-05 00:00:00
+categories:
+  - Tech
+  - DevOps
 tags:
   - DevOps
   - DevOps Academy

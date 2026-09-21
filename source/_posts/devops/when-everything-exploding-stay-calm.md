@@ -1,6 +1,9 @@
 ---
 title: When Everything’s Exploding, Stay Calm and Reload.
 date: 2025-11-03 00:00:00
+categories:
+  - Tech
+  - IncidentManagement
 tags:
   - IncidentManagement
   - Postmortem

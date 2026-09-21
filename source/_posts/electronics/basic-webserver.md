@@ -1,6 +1,8 @@
 ---
 title: Using your ESP32 board as a web server
 date: 2025-11-13 00:00:00
+categories:
+  - Electronics
 tags:
   - electronics
   - esp32
